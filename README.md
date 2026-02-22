@@ -1,8 +1,29 @@
 # Hi 👋, I'm Elias Santander Cabrera
 
+I'm a Software Engineer from Santiago, Chile.  
+I work as a Backend Developer, QA, and Data Analyst.
+
+I have experience building backend systems and business applications using:
+- C# (.NET, ASP)
+- Java (Spring Boot)
+- Python (Django)
+- SQL Server, PostgreSQL, and MySQL
+
+I also work with testing and data analysis tools such as Selenium, Postman, JUnit, PyTest, Pandas, NumPy, and Seaborn.
+
+I have developed systems for real-world needs, including:
+- Local Police Court management system
+- Production and warehouse management system for a plastic packaging company
+- Elderly care home management system
+- Parking administration and condominium visitor control system
+
+🚀 I am currently open to work.
+
+Welcome to my GitHub!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elias-Santander&label=Profile views&color=0e75b6&style=flat" alt="Elias-Santander" /> </p>
 
-- 🌱 I'm currently learning **MongoDB and Kubernetes**
+- 🌱 I'm currently learning **Node.js, MongoDB and Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,13 +49,10 @@
     <a href="https://docs.docker.com/manuals/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
     <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
     <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
     <a href="https://v2.tailwindcss.com/docs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://docs.unity.com/en-us" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
 </p>
